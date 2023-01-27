@@ -1,5 +1,6 @@
-<img alt="Globe" height="80" src="images/globe.gif">
-
+<div align="center">
+  <img alt="Globe" height="80" src="images/globe.gif">
+</div>
 <h1 align="center">Hey whats crackin 👋</h1>
  <p>Welcome to my github!<p>
 
