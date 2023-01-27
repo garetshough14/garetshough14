@@ -28,11 +28,12 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original-wordmark.svg" width="50" height="50"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" width="50" height="50"/>
  </div>
-
+<p align="center">Additional Skills: React Native, Discord.js</p>
 <hr>
 <hr>
 
- <picture >
+
+ <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=garetshough14&show_icons=true&layout=compact&theme=dark"
   media="(prefers-color-scheme: dark)"
