@@ -1,7 +1,7 @@
-<link rel="stylesheet" href="style.css">
+<img alt="Globe" height="80" src="images/globe.gif">
 
 <h1 align="center">Hey whats crackin 👋</h1>
- <p>Welcome to my github!<p><i class="devicon-devicon-plain"></i>
+ <p>Welcome to my github!<p>
 
  <p>I'm Garet a web developer from Bakersfield, California. Unfotunately still living in Bakersfield, California. <p>
  
@@ -10,7 +10,7 @@
  
  
  <h1 align="center">Key Skills</h1>
-
+<br>
  <div align="center">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="50" height="50"/>
@@ -28,12 +28,14 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original-wordmark.svg" width="50" height="50"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" width="50" height="50"/>
  </div>
+ <br>
 <p align="center">Additional Skills: React Native, Discord.js</p>
+<br>
 <hr>
 <hr>
 
-
- <picture>
+<br>
+ <picture >
 <source 
   srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=garetshough14&show_icons=true&layout=compact&theme=dark"
   media="(prefers-color-scheme: dark)"
@@ -46,7 +48,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=garetshough14&layout=compact"  />
 </div>
 </picture>
-
+<br>
  <hr>
  <hr>
 
@@ -60,5 +62,16 @@
   <li>⚡ Fun fact: I want to own a pet Monkey.</li>
 </ul>
 </div>
+<br>
 
+<div align="center">
+
+![Visitor Count](https://profile-counter.glitch.me/garetshough14/count.svg)
+
+</div>
+
+<div align="center">
+
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<br />
 
